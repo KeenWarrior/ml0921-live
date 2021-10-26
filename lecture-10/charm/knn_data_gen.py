@@ -36,7 +36,8 @@ while count > 0:
                 print(count, "captures remaining")
                 capture = False
 
-
+        
+        
     key = cv2.waitKey(1)
 
     if key == ord("q"):
